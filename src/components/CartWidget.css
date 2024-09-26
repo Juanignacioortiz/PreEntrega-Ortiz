@@ -1,0 +1,18 @@
+.cart-widget {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    background-color: #af3e40; /* Bordó */
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.cart-icon {
+    height: 34px; /* Ajusta la altura según tu diseño */
+    margin-right: 5px;
+}
+
+.cart-count {
+    font-weight: bold;
+}
